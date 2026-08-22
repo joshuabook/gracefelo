@@ -1,0 +1,21 @@
+{
+  "name": "Grace Christian Platform",
+  "short_name": "GraceBook",
+  "description": "Your daily companion for Bible verses, Christian books, courses, and community",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1025",
+  "theme_color": "#4C1D95",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
